@@ -1,4 +1,4 @@
-AL Web Services ZURB Tempaltes created for the Library Website Redesign 2016 project based on ZURB F6 Template
+AL Web Services ZURB Template Created for the Library Website Redesign 2016 project based on ZURB Template
 
 
 # Installation
