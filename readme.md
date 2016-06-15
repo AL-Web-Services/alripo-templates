@@ -1,10 +1,7 @@
-AL Web Services ZURB Tempaltes Created for the Library Website Redesign 2016 project
+AL Web Services ZURB Tempaltes created for the Library Website Redesign 2016 project based on ZURB F6 Template
 
 
-# ZURB Template
-
-
-## Installation
+# Installation
 
 To use this template, your computer needs:
 
@@ -13,6 +10,7 @@ To use this template, your computer needs:
 
 
 ```bash
+git clone .... projectname
 cd projectname
 npm install
 bower install
